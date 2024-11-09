@@ -14,5 +14,6 @@ Segmentos Objetivo:
 - Autoridades Locales
 
 Principales Características:
+
 SafeGuard es el nombre que hemos elegido para nuestra app y página web. Esta plataforma se basa en un mapa impulsado por Google Maps y está equipada con una avanzada inteligencia artificial (IA). SafeGuard aprovecha el sistema de cámaras instaladas en las calles de Lima para llevar a cabo el seguimiento en tiempo real de los delincuentes cuando se detecta un robo. Esta funcionalidad permite a las fuerzas del orden y a las unidades de serenazgo reaccionar rápidamente, facilitando investigaciones más eficaces y mejorando significativamente la resolución de casos delictivos.
 Dentro de sus funcionalidades tenemos: Monitorear Cáramas de Vigilancia, Visualizar Informes sobre Criminalidad, Realizar Reportes de Actividades Criminales, Visualizar Historial de Reportes y Atender Reportes Criminales.
